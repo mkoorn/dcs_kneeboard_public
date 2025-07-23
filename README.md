@@ -1,3 +1,6 @@
+![Static Chicken](app_icon.jpg)
+
+
 This repository is used to distribute DCS Kneeboard files.
 
 # DCS Kneeboard Help
